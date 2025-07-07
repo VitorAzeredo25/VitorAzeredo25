@@ -1,6 +1,6 @@
 ## Olá eu sou o Vítor 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAzeredo25)](https://github.com/VitorAzeredo25/github-readme-stats)
+[![Vítor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAzeredo25)](https://github.com/VitorAzeredo25/github-readme-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
