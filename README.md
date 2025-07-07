@@ -1,8 +1,8 @@
 ## Olá eu sou o Vítor 👋
 
 [![Vítor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorAzeredo25&theme=codeSTACKr)](https://github.com/VitorAzeredo25/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAzeredo25&theme=codeSTACKr)](https://github.com/VitorAzeredo25/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
