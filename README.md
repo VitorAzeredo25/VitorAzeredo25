@@ -1,4 +1,4 @@
-## Olá eu sou o Vítor 👋
+## Hi! I'm Vítor 👋
 
 - 🌱 I’m currently learning Python
 
