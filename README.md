@@ -1,6 +1,6 @@
 ## Hi! I'm Vítor 👋
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAzeredo25&theme=codeSTACKr)](https://github.com/VitorAzeredo25/github-readme-stats)
 
